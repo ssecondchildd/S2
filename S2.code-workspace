@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Desktop/Personality-Quiz-master"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "S2"
+	}
+}
